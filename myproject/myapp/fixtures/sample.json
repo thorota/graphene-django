@@ -1,0 +1,22 @@
+[{
+ "model": "myapp.Account",
+ "pk": 1,
+ "fields": {
+	"name": "apple",
+ 	"password": "apple-pass"
+ }
+}, {
+ "model": "myapp.Account",
+ "pk": 2,
+ "fields": {
+ 	"name": "banana",
+ 	"password": "banana-pass"
+ }
+}, {
+ "model": "myapp.Account",
+ "pk": 3,
+ "fields": {
+	"name": "orange",
+ 	"password": "orange-pass"
+ }
+}]
